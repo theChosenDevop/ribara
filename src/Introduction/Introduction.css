@@ -1,0 +1,19 @@
+.intro{
+    word-spacing: 3px;
+    margin-bottom: 90px;
+    margin-top: 70px;
+}
+.intro-que{
+    font-size: 40px;
+    font-family: 'varela','sans-pro',sans-serif;
+    font-weight: 900;
+    color: #1a0d6d;
+    margin-top: 65px;
+}
+.intro-ans{
+    color:#1a0d6d;
+    font-size: 20px;
+    word-spacing: 8px;
+    font-family: 'sans-pro', sans-serif;
+    font-weight: 200;
+}
